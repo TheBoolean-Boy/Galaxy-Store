@@ -34,7 +34,3 @@ To run it in production mode, use:
 npm run build
 npm run start
 ```
-
-## License
-
-[MIT](https://github.com/AlterClassIO/ecommerce-nextjs-stripe-checkout/blob/master/LICENSE)
