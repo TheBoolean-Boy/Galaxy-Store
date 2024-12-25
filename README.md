@@ -34,3 +34,4 @@ To run it in production mode, use:
 npm run build
 npm run start
 ```
+If you need any further help contact me via linkedin
